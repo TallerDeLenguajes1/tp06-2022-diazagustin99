@@ -13,3 +13,18 @@ c:\Users\Alumno\Desktop\tp6diaz\tp06-2022-diazagustin99\myapp\obj\Debug\net6.0\r
 c:\Users\Alumno\Desktop\tp6diaz\tp06-2022-diazagustin99\myapp\obj\Debug\net6.0\myapp.pdb
 c:\Users\Alumno\Desktop\tp6diaz\tp06-2022-diazagustin99\myapp\obj\Debug\net6.0\myapp.genruntimeconfig.cache
 c:\Users\Alumno\Desktop\tp6diaz\tp06-2022-diazagustin99\myapp\obj\Debug\net6.0\ref\myapp.dll
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\bin\Debug\net6.0\myapp.exe
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\bin\Debug\net6.0\myapp.deps.json
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\bin\Debug\net6.0\myapp.runtimeconfig.json
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\bin\Debug\net6.0\myapp.dll
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\bin\Debug\net6.0\myapp.pdb
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\obj\Debug\net6.0\myapp.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\obj\Debug\net6.0\myapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\obj\Debug\net6.0\myapp.AssemblyInfoInputs.cache
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\obj\Debug\net6.0\myapp.AssemblyInfo.cs
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\obj\Debug\net6.0\myapp.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\obj\Debug\net6.0\myapp.dll
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\obj\Debug\net6.0\refint\myapp.dll
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\obj\Debug\net6.0\myapp.pdb
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\obj\Debug\net6.0\myapp.genruntimeconfig.cache
+C:\Users\Agustin\Desktop\taller de lenguajes 1\tp06-2022-diazagustin99.git\myapp\obj\Debug\net6.0\ref\myapp.dll
